@@ -78,8 +78,7 @@ img:hover {
     border-color: #fff;
   }
 
-  span:hover{    
+  .btnWrap button span:hover{    
   font-size: 25px;
-
   }
 
